@@ -38,4 +38,4 @@ The data is in .xlsx format with the following features:
 <img width="894" alt="app_index" src="https://github.com/niishaparashar/customer-churn-prediction-application/blob/main/end_to_end_deployment/static/img/Screenshot%20(325).png">
 
 #### Application Results Interface
-<img width="863" alt="app_results" src="https://github.com/AllanOuko/customer-churn-prediction-application/assets/83907520/e967352b-fc5f-4f34-8baa-1dc867d57f4c">
+<img width="863" alt="app_results" src="https://github.com/niishaparashar/customer-churn-prediction-application/blob/main/end_to_end_deployment/static/img/Screenshot%20(326).png">
